@@ -292,31 +292,4 @@ void PascalsTrianglePattern() {}
 
 void ButterflyPattern() {}
 
-// int main() {
-	//SolidRectangle(); // 1
-	//Square(); // 2
-	//HollowRectangle(); // 3
-	//HalfPyramid(); // 4
-	//InvertedHalfPyramid(); // 5
-	//NumericHalfPyramid(); // 6
-	//NumericInvertedPyramid(); // 7
-	//Pyramid(); // 8
-	//InvertedPyramid(); // 9
-	//SolidDiamond(); // 10
-	//HollowSolidDiamond(); // 11
-	//FlipedSolidDiamond(); // 12
-	//FancyPattern(); // 13
-	//AlphabetPalindromePyramid(); // 14
-	//NumericHollowHalfPyramid(); // 15
-	//NumericHollowInvertedPyramid(); // 16
-	// NumericPalindromeEquliateralPyramid(); // 17
-	//SolidHalfDiamond(); // 18
-	//FancyPattern1(); // 19
-	//FancyPattern2(); // 20
-	//FancyPattern3(); // 21
-	//FloydsTrianglePattern(); // 22
-	//PascalsTrianglePattern(); // 23
-	//ButterflyPattern(); // 24
-// }
-
 #endif // PATTERNS_H
